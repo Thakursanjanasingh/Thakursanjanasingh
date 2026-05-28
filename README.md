@@ -1,5 +1,5 @@
 <!--Banner-->
-![thakursanjana Banner Image](./banner.png)
+![thakursanjana Banner Image](./Banner.png.png)
 
 <!--Night Owl image-->
 <div>
